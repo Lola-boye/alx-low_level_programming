@@ -6,7 +6,7 @@
 /**
  * main - Entry point
  *
- * Description: This program prints all possible combinations of single digit numbers
+ * Description: This program prints all possible combi of single-digit numbers
  * Return: Always 0 (Success)
  */
 int main(void)
