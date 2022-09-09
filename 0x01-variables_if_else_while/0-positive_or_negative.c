@@ -2,9 +2,9 @@
 #include<time.h>
 #include<stdio.h>
 
-/* betty style doc for function main goes there */
 /**
- * main -Entry point
+ * main - Entry point
+ *
  * Description: This program assigns random values to outputs
  * Return Always 0 (Success)
  */
