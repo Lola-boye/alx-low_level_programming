@@ -13,8 +13,8 @@ int main(void)
 {
 	int a;
 
-	a = 10;
-	while (a < 20)
+	a = 48;
+	while (a < 58)
 	{
 		putchar(a);
 		a++;
