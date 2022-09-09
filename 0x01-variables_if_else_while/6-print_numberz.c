@@ -14,7 +14,7 @@ int main(void)
 	int a;
 
 	a = 10;
-	while (a < 10)
+	while (a < 20)
 	{
 		putchar(a);
 		a++;
