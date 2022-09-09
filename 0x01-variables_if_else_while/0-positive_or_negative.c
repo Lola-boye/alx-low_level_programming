@@ -5,7 +5,7 @@
 /* betty style doc for function main goes there */
 /**
  * main -Entry point
- * Description: This program assigns random values to outputs based on some comditions
+ * Description: This program assigns random values to outputs
  * Return Always 0 (Success)
  */
 int main(void)
