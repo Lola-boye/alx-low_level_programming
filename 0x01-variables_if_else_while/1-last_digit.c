@@ -4,8 +4,6 @@
 
 /**
  * main - Entry point
- * @n: first operand
- * @r: second operand
  *
  * Description: this program prints last digit stored in n and r
  * Return: Always 0 (Success)
