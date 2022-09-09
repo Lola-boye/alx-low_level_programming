@@ -10,7 +10,7 @@
  * Description: this program prints last digit stored in n and r
  * Return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	int n;
 	int r;
