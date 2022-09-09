@@ -9,7 +9,7 @@
  * Description: Prints all possible combi of two-digit numbers
  * Return: Always 0 (Success)
  */
-int main|(void)
+int main(void)
 {
 	int a;
 	int b;
