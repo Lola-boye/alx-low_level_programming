@@ -3,6 +3,11 @@
 #include<stdio.h>
 
 /* betty style doc for function main goes there */
+/**
+ * main -Entry point
+ * Description: This program assigns random values to outputs based on some comditions
+ * Return Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
