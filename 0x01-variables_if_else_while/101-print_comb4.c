@@ -40,11 +40,11 @@ int main(void)
 			}
 			else if ((j < 56) && (k == 57))
 			{
-				k = j++ + 1;
+				k = ++j + 1;
 			}
 			else
 			{
-				j = i++ + 1;
+				j = ++i + 1;
 				k = j + 1;
 			}
 		}
