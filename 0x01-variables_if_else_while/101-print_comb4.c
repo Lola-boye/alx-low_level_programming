@@ -7,7 +7,7 @@
  * main - Entry point
  *
  * Description: This prints possible combi of 3-digit numbers
- * REturn: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -44,7 +44,7 @@ int main(void)
 			}
 			else
 			{
-				j = i++ +1;
+				j = i++ + 1;
 				k = j + 1;
 			}
 		}
