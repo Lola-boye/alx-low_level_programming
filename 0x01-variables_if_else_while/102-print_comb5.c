@@ -16,7 +16,7 @@ int main(void)
 	int k;
 	int l;
 
-	while (i < 58)
+	while ((i < 58))
 	{
 		putchar(i); putchar(j); putchar(k); putchar(l);
 		if ((i == 57) && (j == 56) && (k == 57) && (l == 57))
