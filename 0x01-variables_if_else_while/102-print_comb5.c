@@ -16,16 +16,20 @@ int main(void)
 	int k;
 	int l;
 
-	while ((i < 58))
+	while (i < 58)
 	{
-		putchar(i); putchar(j); putchar(k); putchar(l);
+		putchar(i); 
+		putchar(j); 
+		putchar(k);
+		putchar(l);
 		if ((i == 57) && (j == 56) && (k == 57) && (l == 57))
 		{
 			putchar('\n'); i++;
 		}
 		else
 		{
-			putchar(44); putchar(32);
+			putchar(44); 
+			putchar(32);
 			if ((k == 57) && (i == 57))
 			{
 				if (j < 56)
