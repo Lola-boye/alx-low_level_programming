@@ -8,6 +8,7 @@
  * Return: always 0
  */
 
+int _putchar(int i);
 int main(void)
 {
 	int i = 0;
