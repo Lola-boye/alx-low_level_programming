@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main -check the code
- *
- * Description: Prints the alphabet with _putchar
+ * main -check the code for Holberton school students
  *
  * Return: Always 0.
  */
