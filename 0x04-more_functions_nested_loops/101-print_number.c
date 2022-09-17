@@ -6,7 +6,6 @@
  *
  * Return: void
  */
-
 void print_number(int n)
 {
 	int a0, a1, a2, a3, a4, a5, a6, a7, a8, a9;
