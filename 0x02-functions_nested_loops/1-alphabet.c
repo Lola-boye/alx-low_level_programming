@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * print_alphabet - entry point
+ * main -check the code
  *
  * Description: Prints the alphabet with _putchar
  *
- * Return: void
+ * Return: Always 0.
  */
 
 
-void print_alphabet(void)
+int main(void)
 {
 	char c;
 
@@ -18,4 +18,6 @@ void print_alphabet(void)
 		_putchar(c);
 	}
 	_putchar('\n');
+
+	return (0);
 }
