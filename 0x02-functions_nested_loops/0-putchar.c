@@ -1,16 +1,26 @@
-#include <stdio.h>>
 #include "main.h"
+#include <stdio.h>
 
 /**
- * main - Entry point
+ * main - entry point
  *
- * Description: Program.to print _putchar
+ * Description: Prints _putchar
  *
- * Return: Always 0 (Success)
+ * Return: always 0
  */
+
 int main(void)
 {
-	printf("_putchar\n");
+	int i = 0;
+	char c;
+	char s[] = "_putchar\n";
+
+	while (i <= 9)
+	{
+		c = s[i];
+		_putchar(c);
+		i++;
+	}
 
 	return (0);
 }
