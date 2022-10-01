@@ -1,19 +1,14 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * _puts - prints a string in stdout
- * @str: string to print
+ * main - The program to be executed
  *
- * Return: void
- */
-void _puts(char *str)
-{
-	int i = 0;
+ * Return: Always 0
+ **/
 
-	while (*(str + i))
-	{
-		_putchar(*(str + i));
-		i++;
-	}
-	_putchat('\n');
+int main(void)
+{
+    _puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+    return (0);
 }
